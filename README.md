@@ -23,3 +23,5 @@ for x in range(0, 100):
  run the template generator
  
  ```python3 generate_template.py```
+
+update to CFN and have fun
