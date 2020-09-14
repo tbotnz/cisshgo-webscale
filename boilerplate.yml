@@ -1,0 +1,5 @@
+Parameters:
+  KeyName:
+    Description: Select Key
+    Type: AWS::EC2::KeyPair::KeyName
+Resources:
