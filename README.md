@@ -24,4 +24,4 @@ for x in range(0, 100):
  
  ```python3 generate_template.py```
 
-update to CFN and have fun
+upload the template to CFN and have fun
