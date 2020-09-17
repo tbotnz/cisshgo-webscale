@@ -1,5 +1,5 @@
-# cisgo-webscale
-simple CFN template generator for large scale cisgo deployments
+# cisshgo-webscale
+simple CFN template generator for large scale cisshgo deployments
 
 ### pre-reqs
 - security group in aws allowing inbound TCP ports 10000, 11000
